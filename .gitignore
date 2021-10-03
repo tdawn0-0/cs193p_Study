@@ -9,6 +9,7 @@
 *.xcuserstate
 project.xcworkspace/
 xcuserdata/
+*.xcodeproj/xcworkspace/
 
 # Generated files
 *.o
